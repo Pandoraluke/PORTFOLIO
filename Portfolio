@@ -1,7 +1,4 @@
-- finished 1st year of my studies at Algebra Bernays university in Zagreb, this year included learning subjects as Computer networks which included how to set up and manage networks, subnetting and protocols to better understand how everything works on a network
- started programming in C++ for about 9 months at the university, learned basics of SQL (how to create tables, databases and how to use them and change them, how to get important information from said database
-BEFORE START DATE
-20.9.2026 - started my Google Cybersecurity professional certificate
-22.9.2026 - troubleshooted my home printer using cmd commands such as (tracert, ipconfig, arp -a and ping)
-figured out that the printer and end device even if they are on the same wi-fi connection aren't on the same network because the printers IPv4 address was manually set to a different network
-therefore it couldn't communicate with the said end device, 
+I’m a software engineering student at Algebra Bernays University in Zagreb. In my first year, I studied computer networks,
+including subnetting, protocols, and network configuration. I’ve also spent about nine months learning C++ and worked with 
+SQL to create, modify, and query databases. I started the Google Cybersecurity Professional Certificate in September 2026. 
+This portfolio documents projects and investigations as I develop my cybersecurity skills.
